@@ -1,0 +1,7 @@
+fastapi==0.70.0
+uvicorn==0.15.0
+sqlalchemy==1.4.31
+pydantic==1.10.3
+asyncio==3.5.4
+smtplib==3.5.4
+email==3.5.4
