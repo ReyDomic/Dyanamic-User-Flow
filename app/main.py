@@ -57,7 +57,7 @@ def delete_user(user_id: int = Path(..., title="User Id"), db: Session = Depends
 
 @app.post("/send_invitation")
 def send_invitation(background_tasks: BackgroundTasks):
-    recipients = ["shraddha@aviato.consulting", ""pooja@aviato.consulting""]
+    recipients = ["shraddha@aviato.consulting", "pooja@aviato.consulting"]
     subject = "API Documentation Invitation"
     body = """
     <html>
