@@ -65,7 +65,7 @@ def send_invitation(background_tasks: BackgroundTasks):
     <h3>Hello,</h3>
     <p>We are excited to invite you to view our User Management API documentation on ReDoc.</p>
     <p>You can access the documentation by clicking the button below:</p>
-    <a href="http://52.66.43.178:8000/redoc" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">View API Documentation</a>
+    <a href="http://13.126.43.26:8000/redoc" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">View API Documentation</a>
     <p>For more detailed information and to access the related code, please visit our GitHub repository:</p>
     <a href="https://github.com/yourusername/yourrepository" style="color: #4CAF50; text-decoration: none;">GitHub Repository</a>    
     <p>We appreciate your time and look forward to your feedback.</p>
